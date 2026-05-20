@@ -1,5 +1,5 @@
-# 💫 About Me:
-🌱 I'm currently working on     <br>                                 Blom Flo — clinical documentation for hospital IPD workflows<br>TapOpen — deep link routing & link-in-bio platform for creators<br><br>🤝 I'm looking to collaborate on  Full-stack products, agentic solutions & startup MVPs<br><br>🆘 I'm looking for help with     Scaling SaaS products & growth engineering<br><br>📚 I'm currently learning        AI engineering, product-led growth & system design at scale<br><br>💬 Ask me about                  Building startups from 0→1, Kannada tech content, or clinical tech in India<br>
+# About Me:
+ I'm currently working on     <br>                                 Blom Flo — clinical documentation for hospital IPD workflows<br>TapOpen — deep link routing & link-in-bio platform for creators<br><br> > I'm looking to collaborate on  Full-stack products, agentic solutions & startup MVPs<br><br> > I'm looking for help with     Scaling SaaS products & growth engineering<br><br> > I'm currently learning        AI engineering, product-led growth & system design at scale<br>
 
 
 ## 🌐 Socials:
