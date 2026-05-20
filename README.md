@@ -1,5 +1,5 @@
-# About Me:
- I'm currently working on     <br>                                 Blom Flo — clinical documentation for hospital IPD workflows<br>TapOpen — deep link routing & link-in-bio platform for creators<br><br> > I'm looking to collaborate on  Full-stack products, agentic solutions & startup MVPs<br><br> > I'm looking for help with     Scaling SaaS products & growth engineering<br><br> > I'm currently learning        AI engineering, product-led growth & system design at scale<br>
+# About Me: Harsha Mohan
+ I'm currently working on     <br>                                 Blom Flo — clinical documentation for hospital IPD workflows<br>TapOpen — deep link routing & link-in-bio platform for creators<br><br> > I'm looking to collaborate on  Full-stack products, agentic solutions & startup MVPs<br> > I'm looking for help with     Scaling SaaS products & growth engineering<br> > I'm currently learning        AI engineering, product-led growth & system design at scale<br>
 
 
 ## 🌐 Socials:
@@ -9,7 +9,3 @@
 ![](https://streak-stats.demolab.com/?user=harshammg&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=harshammg&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=harshammg&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
